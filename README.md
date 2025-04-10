@@ -1,1 +1,2 @@
 # Financial_report_courses
+Recently, I completed a project delivering an advanced report in Power BI to process and visualize data concerning the company's courses. The project involved creating clear tables presenting key information, using a variety of visualizations (charts, KPIs), applying advanced data modeling techniques, including the creation of custom measures and columns using the DAX language, ensuring that the report was intuitive and usable by the end user. The project was aimed at optimizing data analysis process and decision support for business management.
